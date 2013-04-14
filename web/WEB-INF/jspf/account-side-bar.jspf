@@ -1,0 +1,9 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<div class="well sidebar-nav">
+            <ul class="nav nav-list">
+              <li class="nav-header">Actions</li>
+              <li class=""><a href="editProfile">Edit Profile</a></li>
+              <li><a href="user-bookings">My Bookings</a></li>
+            </ul>
+</div><!--/.well -->
